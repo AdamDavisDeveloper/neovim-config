@@ -1,6 +1,7 @@
 neofetch
 alias neo="neofetch"
 alias vim="nvim"
+# Add a "notify" function when possible
 
 # Enable word movement with Alt + Arrow keys
 bindkey '^[b' backward-word
