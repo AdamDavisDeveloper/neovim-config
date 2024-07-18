@@ -1,6 +1,7 @@
 neofetch
 alias neo="neofetch"
 alias vim="nvim"
+alias hn="hn_top"
 # Add a "notify" function when possible
 
 # Enable word movement with Alt + Arrow keys
